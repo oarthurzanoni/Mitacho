@@ -1,6 +1,6 @@
 ### Mitacho
 
-#### Software Engineer at [Gonew.co](https://www.linkedin.com/school/gonew-co) <br>
+#### Software Engineer<br>
 
 ---
 
