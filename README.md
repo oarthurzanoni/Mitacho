@@ -1,6 +1,6 @@
-### Mitacho
+<h3>Mitacho</h3>
 
-#### Software Engineer <br/>
+<h4>Software Engineer</h4><br/>
 
 ---
 
