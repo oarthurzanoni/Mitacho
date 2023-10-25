@@ -1,6 +1,6 @@
 <h3>Mitacho</h3>
 
-<h4>Software Engineer</h4><br/>
+<h4>Software Engineer</h4>
 
 ---
 
